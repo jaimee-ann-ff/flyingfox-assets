@@ -1,0 +1,1420 @@
+{
+  "version": 2,
+  "total": 202,
+  "images": [
+    {
+      "slug": "afl",
+      "name": "AFL / footy",
+      "category": "Activities",
+      "file": "afl.png",
+      "size_bytes": 2646
+    },
+    {
+      "slug": "arcade",
+      "name": "Arcade",
+      "category": "Activities",
+      "file": "arcade.png",
+      "size_bytes": 5705
+    },
+    {
+      "slug": "archery",
+      "name": "Archery",
+      "category": "Activities",
+      "file": "archery.png",
+      "size_bytes": 3684
+    },
+    {
+      "slug": "basketball",
+      "name": "Basketball",
+      "category": "Activities",
+      "file": "basketball.png",
+      "size_bytes": 3926
+    },
+    {
+      "slug": "beach",
+      "name": "Beach",
+      "category": "Activities",
+      "file": "beach.png",
+      "size_bytes": 4123
+    },
+    {
+      "slug": "beading",
+      "name": "Beading / jewellery",
+      "category": "Activities",
+      "file": "beading.png",
+      "size_bytes": 6080
+    },
+    {
+      "slug": "bike",
+      "name": "Bike riding",
+      "category": "Activities",
+      "file": "bike.png",
+      "size_bytes": 5759
+    },
+    {
+      "slug": "board-games",
+      "name": "Board games",
+      "category": "Activities",
+      "file": "board-games.png",
+      "size_bytes": 5195
+    },
+    {
+      "slug": "boating",
+      "name": "Boating",
+      "category": "Activities",
+      "file": "boating.png",
+      "size_bytes": 3733
+    },
+    {
+      "slug": "bouncy-castle",
+      "name": "Bouncy castle",
+      "category": "Activities",
+      "file": "bouncy-castle.png",
+      "size_bytes": 6811
+    },
+    {
+      "slug": "bowling",
+      "name": "Bowling",
+      "category": "Activities",
+      "file": "bowling.png",
+      "size_bytes": 6734
+    },
+    {
+      "slug": "boxing",
+      "name": "Boxing",
+      "category": "Activities",
+      "file": "boxing.png",
+      "size_bytes": 6110
+    },
+    {
+      "slug": "bubble-soccer",
+      "name": "Bubble soccer",
+      "category": "Activities",
+      "file": "bubble-soccer.png",
+      "size_bytes": 7860
+    },
+    {
+      "slug": "bushwalk",
+      "name": "Bushwalk / hike",
+      "category": "Activities",
+      "file": "bushwalk.png",
+      "size_bytes": 7257
+    },
+    {
+      "slug": "cake-decorating",
+      "name": "Cake decorating",
+      "category": "Activities",
+      "file": "cake-decorating.png",
+      "size_bytes": 3961
+    },
+    {
+      "slug": "candle-making",
+      "name": "Candle making",
+      "category": "Activities",
+      "file": "candle-making.png",
+      "size_bytes": 3884
+    },
+    {
+      "slug": "cheese-tasting",
+      "name": "Cheese tasting",
+      "category": "Activities",
+      "file": "cheese-tasting.png",
+      "size_bytes": 2755
+    },
+    {
+      "slug": "chocolate",
+      "name": "Chocolate making",
+      "category": "Activities",
+      "file": "chocolate.png",
+      "size_bytes": 3895
+    },
+    {
+      "slug": "circus",
+      "name": "Circus skills",
+      "category": "Activities",
+      "file": "circus.png",
+      "size_bytes": 3986
+    },
+    {
+      "slug": "climbing",
+      "name": "Rock climbing",
+      "category": "Activities",
+      "file": "climbing.png",
+      "size_bytes": 4048
+    },
+    {
+      "slug": "colouring",
+      "name": "Colouring in",
+      "category": "Activities",
+      "file": "colouring.png",
+      "size_bytes": 5241
+    },
+    {
+      "slug": "cookie-decorating",
+      "name": "Cookie decorating",
+      "category": "Activities",
+      "file": "cookie-decorating.png",
+      "size_bytes": 4933
+    },
+    {
+      "slug": "cooking",
+      "name": "Cooking",
+      "category": "Activities",
+      "file": "cooking.png",
+      "size_bytes": 4970
+    },
+    {
+      "slug": "craft",
+      "name": "Craft (generic)",
+      "category": "Activities",
+      "file": "craft.png",
+      "size_bytes": 5488
+    },
+    {
+      "slug": "cricket",
+      "name": "Cricket",
+      "category": "Activities",
+      "file": "cricket.png",
+      "size_bytes": 4182
+    },
+    {
+      "slug": "dance-class",
+      "name": "Dance",
+      "category": "Activities",
+      "file": "dance-class.png",
+      "size_bytes": 8064
+    },
+    {
+      "slug": "dj",
+      "name": "DJ set",
+      "category": "Activities",
+      "file": "dj.png",
+      "size_bytes": 5615
+    },
+    {
+      "slug": "drumming",
+      "name": "Drumming",
+      "category": "Activities",
+      "file": "drumming.png",
+      "size_bytes": 3534
+    },
+    {
+      "slug": "escape-room",
+      "name": "Escape room",
+      "category": "Activities",
+      "file": "escape-room.png",
+      "size_bytes": 3592
+    },
+    {
+      "slug": "face-painting",
+      "name": "Face painting",
+      "category": "Activities",
+      "file": "face-painting.png",
+      "size_bytes": 6043
+    },
+    {
+      "slug": "flower-crown",
+      "name": "Flower crown",
+      "category": "Activities",
+      "file": "flower-crown.png",
+      "size_bytes": 9192
+    },
+    {
+      "slug": "flowers",
+      "name": "Flower crown / floral",
+      "category": "Activities",
+      "file": "flowers.jpg",
+      "size_bytes": 5422
+    },
+    {
+      "slug": "fruit-picking",
+      "name": "Fruit picking",
+      "category": "Activities",
+      "file": "fruit-picking.png",
+      "size_bytes": 3974
+    },
+    {
+      "slug": "gelato",
+      "name": "Gelato / ice cream",
+      "category": "Activities",
+      "file": "gelato.png",
+      "size_bytes": 3552
+    },
+    {
+      "slug": "go-karts",
+      "name": "Go-karts",
+      "category": "Activities",
+      "file": "go-karts.png",
+      "size_bytes": 3897
+    },
+    {
+      "slug": "graffiti",
+      "name": "Spray paint / graffiti",
+      "category": "Activities",
+      "file": "graffiti.png",
+      "size_bytes": 6037
+    },
+    {
+      "slug": "gym",
+      "name": "Gym / fitness",
+      "category": "Activities",
+      "file": "gym.png",
+      "size_bytes": 6168
+    },
+    {
+      "slug": "hair-styling",
+      "name": "Hair styling",
+      "category": "Activities",
+      "file": "hair-styling.png",
+      "size_bytes": 6213
+    },
+    {
+      "slug": "handball",
+      "name": "Handball",
+      "category": "Activities",
+      "file": "handball.png",
+      "size_bytes": 5369
+    },
+    {
+      "slug": "high-ropes",
+      "name": "High ropes",
+      "category": "Activities",
+      "file": "high-ropes.png",
+      "size_bytes": 7473
+    },
+    {
+      "slug": "high-tea",
+      "name": "High tea",
+      "category": "Activities",
+      "file": "high-tea.png",
+      "size_bytes": 8332
+    },
+    {
+      "slug": "hot-springs",
+      "name": "Hot springs",
+      "category": "Activities",
+      "file": "hot-springs.png",
+      "size_bytes": 4458
+    },
+    {
+      "slug": "human-foosball",
+      "name": "Human foosball",
+      "category": "Activities",
+      "file": "human-foosball.png",
+      "size_bytes": 6767
+    },
+    {
+      "slug": "ice-skating",
+      "name": "Ice skating",
+      "category": "Activities",
+      "file": "ice-skating.png",
+      "size_bytes": 4959
+    },
+    {
+      "slug": "improv",
+      "name": "Improv / drama",
+      "category": "Activities",
+      "file": "improv.png",
+      "size_bytes": 4336
+    },
+    {
+      "slug": "karaoke",
+      "name": "Karaoke",
+      "category": "Activities",
+      "file": "karaoke.png",
+      "size_bytes": 5530
+    },
+    {
+      "slug": "karaoke-and-relax",
+      "name": "Karaoke",
+      "category": "Activities",
+      "file": "karaoke-and-relax.png",
+      "size_bytes": 5530
+    },
+    {
+      "slug": "kayaking",
+      "name": "Kayaking / canoeing",
+      "category": "Activities",
+      "file": "kayaking.png",
+      "size_bytes": 5195
+    },
+    {
+      "slug": "laser-tag",
+      "name": "Laser tag",
+      "category": "Activities",
+      "file": "laser-tag.png",
+      "size_bytes": 8603
+    },
+    {
+      "slug": "laser-tag-and-mini-golf",
+      "name": "Laser tag + mini golf (deprecated)",
+      "category": "Activities",
+      "file": "laser-tag-and-mini-golf.png",
+      "size_bytes": 8603
+    },
+    {
+      "slug": "lawn-bowls",
+      "name": "Lawn bowls",
+      "category": "Activities",
+      "file": "lawn-bowls.png",
+      "size_bytes": 6306
+    },
+    {
+      "slug": "live-music",
+      "name": "Live music / band",
+      "category": "Activities",
+      "file": "live-music.png",
+      "size_bytes": 9831
+    },
+    {
+      "slug": "magic-show",
+      "name": "Magic show",
+      "category": "Activities",
+      "file": "magic-show.png",
+      "size_bytes": 5443
+    },
+    {
+      "slug": "magnets",
+      "name": "Magnet making",
+      "category": "Activities",
+      "file": "magnets.png",
+      "size_bytes": 4892
+    },
+    {
+      "slug": "makeup",
+      "name": "Makeup / glitter",
+      "category": "Activities",
+      "file": "makeup.png",
+      "size_bytes": 8170
+    },
+    {
+      "slug": "martial-arts",
+      "name": "Martial arts",
+      "category": "Activities",
+      "file": "martial-arts.png",
+      "size_bytes": 6542
+    },
+    {
+      "slug": "mini-golf",
+      "name": "Mini golf",
+      "category": "Activities",
+      "file": "mini-golf.png",
+      "size_bytes": 5056
+    },
+    {
+      "slug": "movie",
+      "name": "Movie / cinema",
+      "category": "Activities",
+      "file": "movie.png",
+      "size_bytes": 2025
+    },
+    {
+      "slug": "music",
+      "name": "Music",
+      "category": "Activities",
+      "file": "music.png",
+      "size_bytes": 2800
+    },
+    {
+      "slug": "nails",
+      "name": "Nail painting",
+      "category": "Activities",
+      "file": "nails.png",
+      "size_bytes": 4225
+    },
+    {
+      "slug": "nature",
+      "name": "Nature play",
+      "category": "Activities",
+      "file": "nature.png",
+      "size_bytes": 7027
+    },
+    {
+      "slug": "nerf-wars",
+      "name": "Nerf wars",
+      "category": "Activities",
+      "file": "nerf-wars.png",
+      "size_bytes": 6867
+    },
+    {
+      "slug": "obstacle-course",
+      "name": "Obstacle course",
+      "category": "Activities",
+      "file": "obstacle-course.png",
+      "size_bytes": 6207
+    },
+    {
+      "slug": "painting",
+      "name": "Painting",
+      "category": "Activities",
+      "file": "painting.png",
+      "size_bytes": 4904
+    },
+    {
+      "slug": "performing-arts",
+      "name": "Performing arts",
+      "category": "Activities",
+      "file": "performing-arts.png",
+      "size_bytes": 5938
+    },
+    {
+      "slug": "photobooth",
+      "name": "Photobooth",
+      "category": "Activities",
+      "file": "photobooth.png",
+      "size_bytes": 6461
+    },
+    {
+      "slug": "pickleball",
+      "name": "Pickleball",
+      "category": "Activities",
+      "file": "pickleball.png",
+      "size_bytes": 8467
+    },
+    {
+      "slug": "pilates",
+      "name": "Pilates",
+      "category": "Activities",
+      "file": "pilates.png",
+      "size_bytes": 3670
+    },
+    {
+      "slug": "pizza-making",
+      "name": "Pizza making",
+      "category": "Activities",
+      "file": "pizza-making.png",
+      "size_bytes": 7637
+    },
+    {
+      "slug": "pottery",
+      "name": "Pottery",
+      "category": "Activities",
+      "file": "pottery.png",
+      "size_bytes": 6775
+    },
+    {
+      "slug": "puppy-visit",
+      "name": "Puppy visit",
+      "category": "Activities",
+      "file": "puppy-visit.png",
+      "size_bytes": 4378
+    },
+    {
+      "slug": "puppy-yoga",
+      "name": "Puppy yoga",
+      "category": "Activities",
+      "file": "puppy-yoga.png",
+      "size_bytes": 4801
+    },
+    {
+      "slug": "reptile-show",
+      "name": "Reptile show",
+      "category": "Activities",
+      "file": "reptile-show.png",
+      "size_bytes": 6975
+    },
+    {
+      "slug": "roller-skating",
+      "name": "Roller skating",
+      "category": "Activities",
+      "file": "roller-skating.png",
+      "size_bytes": 4751
+    },
+    {
+      "slug": "sailing",
+      "name": "Sailing",
+      "category": "Activities",
+      "file": "sailing.png",
+      "size_bytes": 3527
+    },
+    {
+      "slug": "science",
+      "name": "Science experiments",
+      "category": "Activities",
+      "file": "science.png",
+      "size_bytes": 4294
+    },
+    {
+      "slug": "silent-disco",
+      "name": "Silent disco",
+      "category": "Activities",
+      "file": "silent-disco.png",
+      "size_bytes": 7767
+    },
+    {
+      "slug": "sip-and-paint",
+      "name": "Sip and paint",
+      "category": "Activities",
+      "file": "sip-and-paint.png",
+      "size_bytes": 5456
+    },
+    {
+      "slug": "skateboarding",
+      "name": "Skateboarding",
+      "category": "Activities",
+      "file": "skateboarding.png",
+      "size_bytes": 3464
+    },
+    {
+      "slug": "slime-making",
+      "name": "Slime making",
+      "category": "Activities",
+      "file": "slime-making.png",
+      "size_bytes": 4904
+    },
+    {
+      "slug": "smash-room",
+      "name": "Smash room",
+      "category": "Activities",
+      "file": "smash-room.png",
+      "size_bytes": 4741
+    },
+    {
+      "slug": "smoothie",
+      "name": "Smoothie making",
+      "category": "Activities",
+      "file": "smoothie.png",
+      "size_bytes": 4831
+    },
+    {
+      "slug": "soccer",
+      "name": "Soccer",
+      "category": "Activities",
+      "file": "soccer.png",
+      "size_bytes": 5594
+    },
+    {
+      "slug": "sport",
+      "name": "Sport (generic)",
+      "category": "Activities",
+      "file": "sport.png",
+      "size_bytes": 7549
+    },
+    {
+      "slug": "surfing",
+      "name": "Surfing",
+      "category": "Activities",
+      "file": "surfing.png",
+      "size_bytes": 4663
+    },
+    {
+      "slug": "swimming",
+      "name": "Swimming",
+      "category": "Activities",
+      "file": "swimming.png",
+      "size_bytes": 2816
+    },
+    {
+      "slug": "table-tennis",
+      "name": "Table tennis",
+      "category": "Activities",
+      "file": "table-tennis.png",
+      "size_bytes": 4978
+    },
+    {
+      "slug": "tai-chi",
+      "name": "Tai chi",
+      "category": "Activities",
+      "file": "tai-chi.png",
+      "size_bytes": 5653
+    },
+    {
+      "slug": "tie-dye",
+      "name": "Tie-dye",
+      "category": "Activities",
+      "file": "tie-dye.png",
+      "size_bytes": 4884
+    },
+    {
+      "slug": "trampoline",
+      "name": "Trampolining",
+      "category": "Activities",
+      "file": "trampoline.png",
+      "size_bytes": 4260
+    },
+    {
+      "slug": "volleyball",
+      "name": "Volleyball",
+      "category": "Activities",
+      "file": "volleyball.png",
+      "size_bytes": 6460
+    },
+    {
+      "slug": "vr",
+      "name": "VR (virtual reality)",
+      "category": "Activities",
+      "file": "vr.png",
+      "size_bytes": 5207
+    },
+    {
+      "slug": "water-marbling",
+      "name": "Water marbling",
+      "category": "Activities",
+      "file": "water-marbling.png",
+      "size_bytes": 8578
+    },
+    {
+      "slug": "water-park",
+      "name": "Water park",
+      "category": "Activities",
+      "file": "water-park.png",
+      "size_bytes": 8481
+    },
+    {
+      "slug": "woodwork",
+      "name": "Woodwork",
+      "category": "Activities",
+      "file": "woodwork.png",
+      "size_bytes": 6158
+    },
+    {
+      "slug": "yoga",
+      "name": "Yoga",
+      "category": "Activities",
+      "file": "yoga.png",
+      "size_bytes": 4481
+    },
+    {
+      "slug": "zipline",
+      "name": "Flying fox / zipline",
+      "category": "Activities",
+      "file": "zipline.png",
+      "size_bytes": 3227
+    },
+    {
+      "slug": "zumba",
+      "name": "Zumba",
+      "category": "Activities",
+      "file": "zumba.png",
+      "size_bytes": 4160
+    },
+    {
+      "slug": "home",
+      "name": "Home",
+      "category": "Anchors",
+      "file": "home.png",
+      "size_bytes": 2317
+    },
+    {
+      "slug": "amusement-park",
+      "name": "Amusement park",
+      "category": "Excursions",
+      "file": "amusement-park.png",
+      "size_bytes": 6392
+    },
+    {
+      "slug": "aquarium",
+      "name": "Aquarium",
+      "category": "Excursions",
+      "file": "aquarium.png",
+      "size_bytes": 3114
+    },
+    {
+      "slug": "cafe",
+      "name": "Cafe",
+      "category": "Excursions",
+      "file": "cafe.png",
+      "size_bytes": 5629
+    },
+    {
+      "slug": "concert",
+      "name": "Concert / show",
+      "category": "Excursions",
+      "file": "concert.png",
+      "size_bytes": 7770
+    },
+    {
+      "slug": "day-outing",
+      "name": "Park (day outing)",
+      "category": "Excursions",
+      "file": "day-outing.png",
+      "size_bytes": 7779
+    },
+    {
+      "slug": "farm",
+      "name": "Farm",
+      "category": "Excursions",
+      "file": "farm.png",
+      "size_bytes": 7683
+    },
+    {
+      "slug": "gallery",
+      "name": "Art gallery",
+      "category": "Excursions",
+      "file": "gallery.png",
+      "size_bytes": 3362
+    },
+    {
+      "slug": "museum",
+      "name": "Museum",
+      "category": "Excursions",
+      "file": "museum.png",
+      "size_bytes": 4534
+    },
+    {
+      "slug": "restaurant",
+      "name": "Restaurant",
+      "category": "Excursions",
+      "file": "restaurant.png",
+      "size_bytes": 5835
+    },
+    {
+      "slug": "shopping",
+      "name": "Shopping",
+      "category": "Excursions",
+      "file": "shopping.png",
+      "size_bytes": 7874
+    },
+    {
+      "slug": "sports-match",
+      "name": "Live sports match",
+      "category": "Excursions",
+      "file": "sports-match.png",
+      "size_bytes": 3934
+    },
+    {
+      "slug": "theme-park",
+      "name": "Theme park",
+      "category": "Excursions",
+      "file": "theme-park.png",
+      "size_bytes": 7017
+    },
+    {
+      "slug": "wildlife-park",
+      "name": "Wildlife park",
+      "category": "Excursions",
+      "file": "wildlife-park.png",
+      "size_bytes": 4863
+    },
+    {
+      "slug": "zoo",
+      "name": "Zoo",
+      "category": "Excursions",
+      "file": "zoo.png",
+      "size_bytes": 4863
+    },
+    {
+      "slug": "calm",
+      "name": "Calm",
+      "category": "Feelings",
+      "file": "calm.png",
+      "size_bytes": 4408
+    },
+    {
+      "slug": "chill-zone",
+      "name": "Chill zone / beanbags",
+      "category": "Feelings",
+      "file": "chill-zone.png",
+      "size_bytes": 4474
+    },
+    {
+      "slug": "excited",
+      "name": "Excited",
+      "category": "Feelings",
+      "file": "excited.png",
+      "size_bytes": 3571
+    },
+    {
+      "slug": "frustrated",
+      "name": "Frustrated",
+      "category": "Feelings",
+      "file": "frustrated.png",
+      "size_bytes": 5176
+    },
+    {
+      "slug": "happy",
+      "name": "Happy",
+      "category": "Feelings",
+      "file": "happy.png",
+      "size_bytes": 3160
+    },
+    {
+      "slug": "hungry",
+      "name": "Hungry",
+      "category": "Feelings",
+      "file": "hungry.png",
+      "size_bytes": 4801
+    },
+    {
+      "slug": "need-break",
+      "name": "Need a break",
+      "category": "Feelings",
+      "file": "need-break.png",
+      "size_bytes": 4935
+    },
+    {
+      "slug": "need-help",
+      "name": "Need help",
+      "category": "Feelings",
+      "file": "need-help.png",
+      "size_bytes": 3998
+    },
+    {
+      "slug": "need-quiet",
+      "name": "Need quiet",
+      "category": "Feelings",
+      "file": "need-quiet.png",
+      "size_bytes": 4408
+    },
+    {
+      "slug": "sad",
+      "name": "Sad",
+      "category": "Feelings",
+      "file": "sad.png",
+      "size_bytes": 3045
+    },
+    {
+      "slug": "sensory-tools",
+      "name": "Sensory tools",
+      "category": "Feelings",
+      "file": "sensory-tools.png",
+      "size_bytes": 6497
+    },
+    {
+      "slug": "talk-buddy",
+      "name": "Talk to a buddy",
+      "category": "Feelings",
+      "file": "talk-buddy.png",
+      "size_bytes": 4391
+    },
+    {
+      "slug": "tired",
+      "name": "Tired",
+      "category": "Feelings",
+      "file": "tired.png",
+      "size_bytes": 2872
+    },
+    {
+      "slug": "worried",
+      "name": "Worried / anxious",
+      "category": "Feelings",
+      "file": "worried.png",
+      "size_bytes": 5121
+    },
+    {
+      "slug": "afternoon-tea",
+      "name": "Afternoon tea",
+      "category": "Meals",
+      "file": "afternoon-tea.png",
+      "size_bytes": 6671
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ",
+      "category": "Meals",
+      "file": "bbq.png",
+      "size_bytes": 4974
+    },
+    {
+      "slug": "birthday-cake",
+      "name": "Birthday cake",
+      "category": "Meals",
+      "file": "birthday-cake.png",
+      "size_bytes": 7021
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast",
+      "category": "Meals",
+      "file": "breakfast.png",
+      "size_bytes": 6734
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert",
+      "category": "Meals",
+      "file": "dessert.png",
+      "size_bytes": 5990
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner",
+      "category": "Meals",
+      "file": "dinner.png",
+      "size_bytes": 5113
+    },
+    {
+      "slug": "drinks",
+      "name": "Drinks",
+      "category": "Meals",
+      "file": "drinks.png",
+      "size_bytes": 5743
+    },
+    {
+      "slug": "fruit",
+      "name": "Fruit",
+      "category": "Meals",
+      "file": "fruit.png",
+      "size_bytes": 6671
+    },
+    {
+      "slug": "hot-drink",
+      "name": "Hot drink",
+      "category": "Meals",
+      "file": "hot-drink.png",
+      "size_bytes": 3334
+    },
+    {
+      "slug": "late-snack",
+      "name": "Late snack",
+      "category": "Meals",
+      "file": "late-snack.png",
+      "size_bytes": 4715
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch",
+      "category": "Meals",
+      "file": "lunch.png",
+      "size_bytes": 6463
+    },
+    {
+      "slug": "morning-tea",
+      "name": "Morning tea",
+      "category": "Meals",
+      "file": "morning-tea.png",
+      "size_bytes": 4715
+    },
+    {
+      "slug": "picnic",
+      "name": "Picnic",
+      "category": "Meals",
+      "file": "picnic.png",
+      "size_bytes": 7585
+    },
+    {
+      "slug": "snack",
+      "name": "Snack",
+      "category": "Meals",
+      "file": "snack.png",
+      "size_bytes": 4715
+    },
+    {
+      "slug": "water",
+      "name": "Water",
+      "category": "Meals",
+      "file": "water.png",
+      "size_bytes": 3093
+    },
+    {
+      "slug": "bin",
+      "name": "Bin / cleanup",
+      "category": "Objects",
+      "file": "bin.png",
+      "size_bytes": 3249
+    },
+    {
+      "slug": "camera",
+      "name": "Camera",
+      "category": "Objects",
+      "file": "camera.png",
+      "size_bytes": 7667
+    },
+    {
+      "slug": "camp-tshirt",
+      "name": "Camp t-shirt",
+      "category": "Objects",
+      "file": "camp-tshirt.png",
+      "size_bytes": 2320
+    },
+    {
+      "slug": "sleeping-bag",
+      "name": "Sleeping bag",
+      "category": "Objects",
+      "file": "sleeping-bag.png",
+      "size_bytes": 4666
+    },
+    {
+      "slug": "suitcase",
+      "name": "Suitcase / bag",
+      "category": "Objects",
+      "file": "suitcase.png",
+      "size_bytes": 4812
+    },
+    {
+      "slug": "chef",
+      "name": "Chef",
+      "category": "People",
+      "file": "chef.png",
+      "size_bytes": 4584
+    },
+    {
+      "slug": "drop-off",
+      "name": "Group (drop-off)",
+      "category": "People",
+      "file": "drop-off.png",
+      "size_bytes": 5880
+    },
+    {
+      "slug": "guest",
+      "name": "External guest",
+      "category": "People",
+      "file": "guest.png",
+      "size_bytes": 2340
+    },
+    {
+      "slug": "nurse",
+      "name": "Nurse",
+      "category": "People",
+      "file": "nurse.png",
+      "size_bytes": 4979
+    },
+    {
+      "slug": "awards",
+      "name": "Awards",
+      "category": "Program",
+      "file": "awards.png",
+      "size_bytes": 3624
+    },
+    {
+      "slug": "bonfire",
+      "name": "Bonfire",
+      "category": "Program",
+      "file": "bonfire.png",
+      "size_bytes": 7427
+    },
+    {
+      "slug": "buddy-time",
+      "name": "Buddy time (1:1)",
+      "category": "Program",
+      "file": "buddy-time.png",
+      "size_bytes": 5880
+    },
+    {
+      "slug": "chill-hour",
+      "name": "Relaxation",
+      "category": "Program",
+      "file": "chill-hour.png",
+      "size_bytes": 5275
+    },
+    {
+      "slug": "closing",
+      "name": "Closing",
+      "category": "Program",
+      "file": "closing.png",
+      "size_bytes": 3443
+    },
+    {
+      "slug": "debrief",
+      "name": "Debrief / reflection",
+      "category": "Program",
+      "file": "debrief.png",
+      "size_bytes": 5526
+    },
+    {
+      "slug": "disco",
+      "name": "Camp disco / dance",
+      "category": "Program",
+      "file": "disco.png",
+      "size_bytes": 6892
+    },
+    {
+      "slug": "free-time",
+      "name": "Free time",
+      "category": "Program",
+      "file": "free-time.png",
+      "size_bytes": 5786
+    },
+    {
+      "slug": "group-photo",
+      "name": "Group photo",
+      "category": "Program",
+      "file": "group-photo.png",
+      "size_bytes": 5773
+    },
+    {
+      "slug": "group-time",
+      "name": "Group time",
+      "category": "Program",
+      "file": "group-time.png",
+      "size_bytes": 3808
+    },
+    {
+      "slug": "icebreaker",
+      "name": "Icebreaker games",
+      "category": "Program",
+      "file": "icebreaker.png",
+      "size_bytes": 3443
+    },
+    {
+      "slug": "master-fox",
+      "name": "Game show / Master Fox",
+      "category": "Program",
+      "file": "master-fox.png",
+      "size_bytes": 5530
+    },
+    {
+      "slug": "movie-night",
+      "name": "Movie night",
+      "category": "Program",
+      "file": "movie-night.png",
+      "size_bytes": 2025
+    },
+    {
+      "slug": "talent-show",
+      "name": "Talent show",
+      "category": "Program",
+      "file": "talent-show.png",
+      "size_bytes": 1466
+    },
+    {
+      "slug": "team-time",
+      "name": "Team time",
+      "category": "Program",
+      "file": "team-time.png",
+      "size_bytes": 3808
+    },
+    {
+      "slug": "themed-party",
+      "name": "Themed party",
+      "category": "Program",
+      "file": "themed-party.png",
+      "size_bytes": 7762
+    },
+    {
+      "slug": "trivia",
+      "name": "Trivia",
+      "category": "Program",
+      "file": "trivia.png",
+      "size_bytes": 3432
+    },
+    {
+      "slug": "welcome",
+      "name": "Welcome",
+      "category": "Program",
+      "file": "welcome.png",
+      "size_bytes": 5117
+    },
+    {
+      "slug": "bed",
+      "name": "Bed",
+      "category": "Routine",
+      "file": "bed.png",
+      "size_bytes": 4605
+    },
+    {
+      "slug": "bed-prep",
+      "name": "Get ready for bed",
+      "category": "Routine",
+      "file": "bed-prep.png",
+      "size_bytes": 3295
+    },
+    {
+      "slug": "brush-teeth",
+      "name": "Brush teeth",
+      "category": "Routine",
+      "file": "brush-teeth.png",
+      "size_bytes": 4555
+    },
+    {
+      "slug": "cabin",
+      "name": "Cabin time",
+      "category": "Routine",
+      "file": "cabin.png",
+      "size_bytes": 5330
+    },
+    {
+      "slug": "first-aid",
+      "name": "First aid",
+      "category": "Routine",
+      "file": "first-aid.png",
+      "size_bytes": 3238
+    },
+    {
+      "slug": "get-dressed",
+      "name": "Get dressed",
+      "category": "Routine",
+      "file": "get-dressed.png",
+      "size_bytes": 5620
+    },
+    {
+      "slug": "hat",
+      "name": "Hat on",
+      "category": "Routine",
+      "file": "hat.png",
+      "size_bytes": 2674
+    },
+    {
+      "slug": "medication",
+      "name": "Medication",
+      "category": "Routine",
+      "file": "medication.png",
+      "size_bytes": 3297
+    },
+    {
+      "slug": "quiet-time",
+      "name": "Quiet time",
+      "category": "Routine",
+      "file": "quiet-time.png",
+      "size_bytes": 4408
+    },
+    {
+      "slug": "shower",
+      "name": "Shower",
+      "category": "Routine",
+      "file": "shower.png",
+      "size_bytes": 5314
+    },
+    {
+      "slug": "sunscreen",
+      "name": "Sunscreen",
+      "category": "Routine",
+      "file": "sunscreen.png",
+      "size_bytes": 4334
+    },
+    {
+      "slug": "swim-gear",
+      "name": "Swim gear on",
+      "category": "Routine",
+      "file": "swim-gear.png",
+      "size_bytes": 4266
+    },
+    {
+      "slug": "toilet",
+      "name": "Toilet break",
+      "category": "Routine",
+      "file": "toilet.png",
+      "size_bytes": 6466
+    },
+    {
+      "slug": "wake-up",
+      "name": "Wake up",
+      "category": "Routine",
+      "file": "wake-up.png",
+      "size_bytes": 5459
+    },
+    {
+      "slug": "warm-clothes",
+      "name": "Warm clothes on",
+      "category": "Routine",
+      "file": "warm-clothes.png",
+      "size_bytes": 3333
+    },
+    {
+      "slug": "wash-hands",
+      "name": "Wash hands",
+      "category": "Routine",
+      "file": "wash-hands.png",
+      "size_bytes": 4419
+    },
+    {
+      "slug": "water-bottle",
+      "name": "Water bottle",
+      "category": "Routine",
+      "file": "water-bottle.png",
+      "size_bytes": 1341
+    },
+    {
+      "slug": "arrive-at-camp",
+      "name": "Arrive at camp",
+      "category": "Transitions",
+      "file": "arrive-at-camp.png",
+      "size_bytes": 6626
+    },
+    {
+      "slug": "bag-drop",
+      "name": "Bag drop",
+      "category": "Transitions",
+      "file": "bag-drop.png",
+      "size_bytes": 5969
+    },
+    {
+      "slug": "bus",
+      "name": "Bus",
+      "category": "Transitions",
+      "file": "bus.png",
+      "size_bytes": 2861
+    },
+    {
+      "slug": "get-changed",
+      "name": "Get changed",
+      "category": "Transitions",
+      "file": "get-changed.png",
+      "size_bytes": 4948
+    },
+    {
+      "slug": "line-up",
+      "name": "Line up",
+      "category": "Transitions",
+      "file": "line-up.png",
+      "size_bytes": 6642
+    },
+    {
+      "slug": "pack-up",
+      "name": "Pack up",
+      "category": "Transitions",
+      "file": "pack-up.png",
+      "size_bytes": 4021
+    },
+    {
+      "slug": "unpack",
+      "name": "Unpack",
+      "category": "Transitions",
+      "file": "unpack.png",
+      "size_bytes": 4073
+    },
+    {
+      "slug": "van",
+      "name": "Van",
+      "category": "Transitions",
+      "file": "van.png",
+      "size_bytes": 4497
+    },
+    {
+      "slug": "walk",
+      "name": "Walk",
+      "category": "Transitions",
+      "file": "walk.png",
+      "size_bytes": 3902
+    },
+    {
+      "slug": "generic-cabin",
+      "name": "Cabin / bunkhouse",
+      "category": "Venues",
+      "file": "generic-cabin.png",
+      "size_bytes": 5330
+    },
+    {
+      "slug": "generic-dining-hall",
+      "name": "Dining hall",
+      "category": "Venues",
+      "file": "generic-dining-hall.png",
+      "size_bytes": 5189
+    },
+    {
+      "slug": "generic-pool",
+      "name": "Camp pool",
+      "category": "Venues",
+      "file": "generic-pool.png",
+      "size_bytes": 5988
+    },
+    {
+      "slug": "cloudy",
+      "name": "Cloudy",
+      "category": "Weather",
+      "file": "cloudy.png",
+      "size_bytes": 5211
+    },
+    {
+      "slug": "rainy",
+      "name": "Rainy / wet weather",
+      "category": "Weather",
+      "file": "rainy.png",
+      "size_bytes": 7774
+    },
+    {
+      "slug": "sunny",
+      "name": "Sunny",
+      "category": "Weather",
+      "file": "sunny.png",
+      "size_bytes": 3710
+    },
+    {
+      "slug": "windy",
+      "name": "Windy",
+      "category": "Weather",
+      "file": "windy.png",
+      "size_bytes": 6171
+    }
+  ]
+}
